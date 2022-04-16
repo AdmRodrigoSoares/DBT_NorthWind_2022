@@ -1,0 +1,1 @@
+Select * from `silent-life-345710.NorthWind.public_orders` LIMIT 1000
